@@ -1,0 +1,76 @@
+		.topo{
+			text-align: center;
+			background-color: #191970;
+			height: 200px;
+		}
+		h1{
+			text-align: center;
+			font-family: verdana;
+			text-shadow: 0px 0px 0px #191970;
+		}
+		.pesquisa{
+			text-align: right;
+		}
+		.conteudo{
+			text-align: center;
+			font-family: verdana;
+			font-size: 16px;
+			padding: 20px;
+		}
+		.rodape{
+			text-align: center;
+			font-family: verdana;
+			text-shadow: 2px 2px 2px #000;
+			color: #fff;
+			background-color: #191970;
+		}
+		h3{
+			text-align: center;
+			font-family: verdana;
+			font-size: 18px;
+		
+		}
+	/*botão de pesquisa*/
+.search-box{
+	position: relative;
+	left: 240px;
+	transform: translate(-50%,-50%);
+	background: #353b48;
+	height: 20px;
+	border-radius: 40px;
+	padding: 5px;
+}
+.search-btn{
+	color: #00a8ff;
+	float: right;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background: #353b48;
+	display: flex;
+	align-items: center;
+	transition: 2s;
+}
+.search-txt{
+	border: none;
+	background: none;
+	outline: none;
+	float: left;
+	padding: 0;
+	color: white;
+	font-size: 12px;
+	transition: 0.4s;
+	line-height: 20px;
+	width: 0px;
+}
+.search-box:hover > .search-txt{ 
+	width: 130px;
+	padding: 0 6px;
+
+}
+.search-box:hover > .search-btn{
+ 		background: white;
+ 		width: 20px;
+ 		height: 20px;
+
+} 

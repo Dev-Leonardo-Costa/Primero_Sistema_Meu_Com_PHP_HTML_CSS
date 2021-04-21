@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8"/>
+	<title>.::Programação Web::.</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+</head>
+<body>
+	<div class="topo">
+		<img src="img/topo_aula.png" alt="Topo">
+	</div>
+	<br><br><br><br>
+	<h1>PROGRAMAÇÃO WEB</h1><hr>
+
+	<div class="pesquisa">
+		<form method="get" action="recebe.php">
+			
+			<h6>Leonardo Costa</h6>
+			<strong>Pesquise no Site:</strong> &nbsp<input type="text" name="pesquisa">
+			<input type="submit" name="pesquisar" value="Pesquisar">
+	
+		</form>
+	</div>
+			<h2>Manual de Uso - Introdução das Aplicações utilizadas</h2>
+			<p>No item acima, vamos realizar uma pesquisa onde as informações coletadas pela caixa de texto serão enviadas por um formulário (método POST) para uma página de tratamentos denominada receb.php.<br>Lá serão coletadas as variáveis que por meio de um Switch vão perceber qual o dado coleto e vão relacionar a uma determinada resposta.<br><br> No item abaixo também haverá uma coleta de informações via formulário, porém neste momento em método POST para esconder as informações da URL.<br>Essas informações serão convertidas em variáveis que serão tratadas em uma estrutura de decisão onde caso a renda registrada seja maior ou igual a 2.000 o crédit será aprovado, caso não o crédito será recusado.<br></p>
+	<div class="conteudo">
+		<fieldset>
+			<legend><strong>Calcule Aqui Sua Posibilidade De crédito</strong></legend>
+			<br><form method="post" action="credito.php">
+				
+				<strong>Nome:</strong> &nbsp<input type="text" name="Nome">
+				<strong>Renda:</strong> &nbsp<input type="number" name="Renda">
+				<input type="submit" name="Enviar" value="Calcular Crédito">
+				
+			</form>
+		</fieldset>
+		<br><br>
+			
+			<h2>Introdução ao Formulário de Orçamento</h2>
+			<p>Para finalizar vamos utilizar o formulário abaixo para que seja possível realizar um orçamento de serviços.<br> Nesta simulação vamos apresentar uma opção de impressão da página de orçamentos.<br></p>
+			
+			<fieldset>
+				<legend><strong>Faça Aqui um Orçamento de Serviços</strong></legend>
+				<br><form method="post" action="orcamento.php">
+				
+						<strong>Data Do Orçamento:</strong>&nbsp <input type="date" name="data">	
+						<strong>Tempo De Garantia:</strong>&nbsp <input type="number" name="garantia" min="1" max="6"><br><br><br>
+						
+						<strong>Serviço a Ser Realizado: &nbsp</strong>
+						
+						<select name="servico">
+							<option> formatação </option>
+							<option>Trocas De Peças</option>
+							<option>Outros</option><br>
+						</select>
+						
+						<strong>Descrição do Aparelho:</strong>&nbsp<input type="text" name="aparelho">
+						<strong>Nome do Cliente:</strong> &nbsp<input type="text" name="cliente"><br><br>
+						<input type="submit" name="Enviar" value="Visualizar Orçamento">
+						
+					</form>
+			</fieldset>
+	</div>
+
+	<div class="rodape">
+		<h2>WEB COM PHP</h2>
+	</div>
+	<footer>
+		<h3>Todos os Direitos Reservados - Leonardo Costa</h3>
+	</footer>
+
+
+
+
+</body>
+</html>

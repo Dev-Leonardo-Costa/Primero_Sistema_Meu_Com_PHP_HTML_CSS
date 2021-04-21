@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"email",
+				"Email"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"shape-margin\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"n",
+				"nome"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"ca",
+				"card-login"
+			],
+			[
+				"re",
+				"relatorio"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"ro",
+				"rotateY()\ttransform"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"r",
+				"rotateY()\ttransform"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"bc",
+				"background-image\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"card",
+				"card-grupo"
+			],
+			[
+				"es",
+				"Esqueceu"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"br",
+				"border-radius\tproperty"
+			],
+			[
+				"pan",
+				"padding-top\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Elisane/agendei/resources/views/Agendei/Agendamento/cadastro_agendamento.blade.php",
+		"/C/Users/Elisane/OneDrive/Área de Trabalho/css perdido do git.css",
+		"/C/Users/Elisane/agendei/.git/TAG_EDITMSG",
+		"/C/xampp/htdocs/agendei/resources/views/Agendei/Agendamento/cadastro_agendamento.blade.php",
+		"/C/xampp/htdocs/fullstark/index.html",
+		"/C/xampp/htdocs/projeto/recebe.php",
+		"/C/Users/Elisane/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Elisane/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/programacao_web/credito.php",
+		"/C/xampp/htdocs/programacao_web/css/estilo.css",
+		"/C/xampp/htdocs/projeto/index.html",
+		"/C/xampp/htdocs/programacao_web/index.html",
+		"/C/xampp/htdocs/programacao_web/orcamento.php",
+		"/C/xampp/htdocs/programacao_web/recebe.php",
+		"/C/xampp/htdocs/projeto/css/estilo.css",
+		"/C/xampp/htdocs/projeto/funcionario.php",
+		"/C/xampp/htdocs/flip/index.html",
+		"/C/xampp/htdocs/cadastros/index.html",
+		"/C/xampp/htdocs/cadastros/index.php",
+		"/C/xampp/htdocs/cadastros/inscrevase.php",
+		"/C/xampp/htdocs/programacao_web/textos-busca.txt"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
